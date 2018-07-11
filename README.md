@@ -2,8 +2,6 @@
 
 ![SWITH AND CONNECTIONS](https://pp.userapi.com/c830608/v830608760/14039d/WvwLypn_0OQ.jpg)
 
-[!()]
-
 # Socket programming 
 - Minimum requirement:
 	- Linux OS 

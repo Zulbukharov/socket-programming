@@ -1,6 +1,8 @@
 # Socket programming (TCP) C:
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+![SWITH AND CONNECTIONS](https://pp.userapi.com/c830608/v830608760/14039d/WvwLypn_0OQ.jpg)
+
+[!()]
 
 # Socket programming 
 - Minimum requirement:
